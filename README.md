@@ -4,7 +4,7 @@ The website demonstrates clean layout, mobile-friendly design, and simple naviga
 It serves as a portfolio to showcase web development skills to potential clients.
 
 ## live website
-[View live website] ( https://kelvinmungai20200-hue.github.io/kelvin-web-portfolios/)
+[View live website] ( https://kelvinmungai20200-hue.github.io/kelvin-dev-portfolio/)
 
 ## Features 
 - Clean and modern website layout
